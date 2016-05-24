@@ -17,4 +17,4 @@ int main(){
 ```
 
 
-![](readme.PNG)
+![](readme.png)
